@@ -1,0 +1,11 @@
+body{
+	height:auto;
+	background-image: url(../images/heroimage.jpg)
+}
+nav{
+	width:1920px;
+	height:70px;
+	background-color:#fffdd0;
+	margin:-8px;
+	top:0;
+}
