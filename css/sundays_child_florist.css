@@ -1,6 +1,5 @@
 body{
-	height:auto;
-	background-image: url(../images/heroimage.jpg)
+	background-color:white;
 }
 nav{
 	width:1920px;
@@ -9,5 +8,21 @@ nav{
 	margin:-8px;
 	font-size:25px;
 	text-align:center;
-	font-family:arial;
+	font-family:Myriad Pro;
+}
+footer{
+	width:1920px;
+	height:250px;
+	margin:-8px;
+	background-color:#fffdd0
+}
+#content{
+	background-color:#fffdd0;
+	text-align:center;
+	padding:50px;
+	align-content: center;
+	margin:auto;
+	width:1200px;
+	height:auto;
+	font-family:Myriad Pro;
 }
